@@ -20,5 +20,6 @@ public class Expense {
     private User user;
 
     public void setUser(User user) {
+        
     }
 }
