@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class FinTrackApplication {
 
 	public static void main(String[] args) {
+		System.out.println("hello this application is working");
 		SpringApplication.run(FinTrackApplication.class, args);
 	}
 
 }
+
