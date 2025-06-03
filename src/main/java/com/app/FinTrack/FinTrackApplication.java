@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class FinTrackApplication {
 
 	public static void main(String[] args) {
+		System.out.println("Project started");
 		SpringApplication.run(FinTrackApplication.class, args);
 	}
 
